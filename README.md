@@ -95,6 +95,13 @@ Once you have installed the required libraries, you can run the application by f
 *   **Integrate with a real-time data streaming platform:** This would allow the application to process data from a real-time data source, such as a Kafka topic or a Kinesis stream.
 *   **Develop a more sophisticated user interface:** The current user interface is very basic. A more sophisticated user interface could provide more features, such as the ability to drill down into the data and view historical trends.
 
+## Hackathon Day
+
+<p align="center">
+  <img src="pics/1.jpeg" width="200" hspace="10">
+  <img src="pics/7.jpg" width="200" hspace="10">
+</p>
+
 ## Author
 
 *   Shibbir Ahmed
