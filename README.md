@@ -4,6 +4,12 @@
 
 This project is a real-time predictive maintenance solution that uses a hybrid anomaly detection model to identify potential equipment failures in a smart factory setting. The solution was developed in less than 24 hours and provides a single, intuitive cockpit for monitoring sensor data and receiving real-time alerts.
 
+## Hackathon Day
+
+<p align="center">
+  <img src="pics/7.jpg" alt="Award Ceremony" width="400">
+</p>
+
 ## The Challenge
 
 The hackathon challenge was to reimagine predictive maintenance in smart factories. We were given a dataset of sensor data from a manufacturing process and tasked with building a solution that could predict equipment failures in real-time.
@@ -94,13 +100,6 @@ Once you have installed the required libraries, you can run the application by f
 *   **Deploy the application to a cloud platform:** This would allow the application to be accessed from anywhere and would make it more scalable.
 *   **Integrate with a real-time data streaming platform:** This would allow the application to process data from a real-time data source, such as a Kafka topic or a Kinesis stream.
 *   **Develop a more sophisticated user interface:** The current user interface is very basic. A more sophisticated user interface could provide more features, such as the ability to drill down into the data and view historical trends.
-
-## Hackathon Day
-
-<p align="center">
-  <img src="pics/1.jpeg" width="200" hspace="10">
-  <img src="pics/7.jpg" width="200" hspace="10">
-</p>
 
 ## Author
 
